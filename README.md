@@ -51,7 +51,7 @@ Unique features:
 - Business executives planning multi-city trips
 - Academic or research-based travelers
 
-# </> API REFERENCE AFTER DEPLOYMENT
+# 🌐 API REFERENCE AFTER DEPLOYMENT
 
 <img width="1915" height="848" alt="API Reference After Deployment" src="https://github.com/user-attachments/assets/ecba1b1e-6a98-454d-a56d-0cdca91c10da" />
 
@@ -84,8 +84,34 @@ https://github.com/Tharun9092
 - AI Budget Optimizer to fit best experience under a user’s budget
 - Travel Community Features – recommendations from other users
 
+# ✅️ IBM CERTIFICATIONS
+
+# GETTING STARTED WITH AI CERTIFICATE
+![Getting Started with Artificial Intelligence_page-0001](https://github.com/user-attachments/assets/7265bf05-5918-4f6c-a1e8-900577f42bf6)
+
+# JOURNEY TO CLOUD CERTIFICATE
+![Journey to Cloud Envisioning Your Solution_page-0001](https://github.com/user-attachments/assets/bd2fea3d-e071-44ac-a32c-2278b74a0bdb)
+
+
+
+# 📷 SCREENSHOTS
+
+# 🏞️ RESOURCES
+<img width="1916" height="861" alt="Screenshot 2025-07-31 145114" src="https://github.com/user-attachments/assets/f83d3e33-cd9d-4ccc-82ec-4bdf4e1d6eef" />
+
+# 🏞️ TOOLS
+<img width="1919" height="863" alt="Screenshot 2025-07-31 144827" src="https://github.com/user-attachments/assets/eda40bc2-a3ba-472c-a154-68f1f0276d28" />
+
+# 🏞️ QUICK QUESTIONS
+<img width="1919" height="848" alt="Screenshot 2025-07-31 144744" src="https://github.com/user-attachments/assets/4967b824-a705-4b4f-83f0-187daff678aa" />
+
+# 🏞️ AGENT INSTRUCTIONS
+<img width="1919" height="867" alt="Screenshot 2025-07-31 144709" src="https://github.com/user-attachments/assets/7f0e1860-c072-4c4d-b127-f3b2f61136cc" />
+
+
 # <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> LINKED IN 
 
 Connect me through linked in : https://www.linkedin.com/in/tharun-kumar-reddy-6941a22a6/
+
 
 
